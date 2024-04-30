@@ -1,7 +1,27 @@
 body {
-    background-color: #f0f0f0;
+    background-color: rgb(51, 51, 51);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+h1{
+    color: rgb(247, 243, 243);
+    font-size: 40px;
+    text-align: center;
+}
+.contactos {
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 5px black solid;
+    border-width: 2px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    list-style-type: none;
+    text-decoration: solid;
+}
+div{
+    color: rgb(0, 0, 0);
+    margin-bottom: 20px;
 }
